@@ -23,7 +23,7 @@ Tools otomatis untuk mengelola akun Netflix dengan mudah melalui Telegram. Cocok
 
 ## 🖼️ Preview
 
-![Preview]([https://via.placeholder.com/800x400?text=Netflix+Tools+AIO](https://github.com/arimaulanafirmansyah/Netflix-Tools/blob/main/Screenshot_2026-03-17-05-00-51-540_org.telegram.messenger.png))
+![Preview](https://raw.githubusercontent.com/arimaulanafirmansyah/Netflix-Tools/main/Screenshot_2026-03-17-05-00-51-540_org.telegram.messenger.png)
 
 ---
 
@@ -32,5 +32,11 @@ Tools otomatis untuk mengelola akun Netflix dengan mudah melalui Telegram. Cocok
 - Telegram Bot Token
 - Python / NodeJS
 - Netflix Account Access
+
+---
+
+## Contact
+
+- Telegram : @amfcode
 
 ---
