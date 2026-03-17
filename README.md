@@ -30,7 +30,7 @@ Tools otomatis untuk mengelola akun Netflix dengan mudah melalui Telegram. Cocok
 ## ⚙️ Requirements
 
 - Telegram Bot Token
-- Python / NodeJS
+- NodeJS
 - Netflix Account Access
 
 ---
