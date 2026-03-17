@@ -23,7 +23,7 @@ Tools otomatis untuk mengelola akun Netflix dengan mudah melalui Telegram. Cocok
 
 ## 🖼️ Preview
 
-![Preview](https://via.placeholder.com/800x400?text=Netflix+Tools+AIO)
+![Preview]([https://via.placeholder.com/800x400?text=Netflix+Tools+AIO](https://github.com/arimaulanafirmansyah/Netflix-Tools/blob/main/Screenshot_2026-03-17-05-00-51-540_org.telegram.messenger.png))
 
 ---
 
